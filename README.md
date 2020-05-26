@@ -10,3 +10,5 @@ my first git repository
 本地更新
 
 远程更新内容部分
+
+远程有修改
