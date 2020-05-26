@@ -8,3 +8,5 @@ my first git repository
 我继续更新
 
 本地更新
+
+远程更新内容部分
