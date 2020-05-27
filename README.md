@@ -16,3 +16,5 @@ my first git repository
 dev 分支完善功能
 
 我能把修改推送到远程仓库
+
+*此处作了修改  -- non admin --*
