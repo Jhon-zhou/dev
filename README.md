@@ -14,3 +14,5 @@ my first git repository
 远程有修改
 
 dev 分支完善功能
+
+我能把修改推送到远程仓库
